@@ -8,5 +8,7 @@ Criação do código-base das funcionalidades
      criação do codigo back-end
     criação da branch pagamentos
      criação do código pagamentos
+Criação de código para correção de bug em funcionalidades
+
 
 

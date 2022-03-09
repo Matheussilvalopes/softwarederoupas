@@ -11,4 +11,6 @@ Criação do código-base das funcionalidades
     criação da branch pagamentos
      criação do código pagamentos
 Criação de código para correção de bug em funcionalidades
+Criação da branch hotfix2 para corrigir bug em desenvolvimento
+  criação do código para corrigir bug em desenvolvimento 
 

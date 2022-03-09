@@ -13,4 +13,4 @@ Criação do código-base das funcionalidades
 Criação de código para correção de bug em funcionalidades
 Criação da branch hotfix2 para corrigir bug em desenvolvimento
   criação do código para corrigir bug em desenvolvimento 
-
+Criação do código final
